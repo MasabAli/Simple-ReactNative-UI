@@ -1,4 +1,8 @@
 # Simple-ReactNative-UI
+I have started learning React-Native. You can contribute to the repo and can help me to learn more things.
+                                   
+                                   **************************
+
 If you're unable to load your app on your phone due to a network timeout or a refused connection,
 a good first step is to verify that your phone and computer are on the same network and that they can reach each other. 
 Create React Native App needs access to ports 19000 and 19001 so ensure that your network and firewall settings allow access from your device to your computer on both of these ports.
