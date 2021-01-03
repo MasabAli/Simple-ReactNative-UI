@@ -26,7 +26,7 @@ export default class App extends React.Component{
       </TouchableOpacity>
 </View>
 
-<Text style={{fontSize:20, marginHorizontal:10,}}>Or join us on</Text>
+<Text style={{fontSize:20, marginHorizontal:10,}}>Or join me on</Text>
 <View style={{flexDirection:'row',marginTop:20,}}>
 
 <View style={{height:50, width:50, borderRadius: 50/2, backgroundColor:'#1565c0',alignItems:'center',justifyContent:'center'}}>
