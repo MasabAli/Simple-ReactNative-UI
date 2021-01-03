@@ -1,7 +1,9 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
-/* import Swiper from 'react-native-swiper'; */
+/* import Swiper from 'react-native-swiper';
+  Next I am going to add swiper and header
+*/
 export default class App extends React.Component {
   render() {
     return (
